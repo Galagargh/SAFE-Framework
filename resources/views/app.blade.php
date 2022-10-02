@@ -8,7 +8,7 @@
     <title>Vue 3 Test</title>
     @vite('resources/js/app.js')
 </head>
-<body class="antialiased">
+<body class="font-inter antialiased bg-white text-gray-900 tracking-tight">
     <div id="app">
     </div>
 </body>

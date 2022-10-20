@@ -4,6 +4,7 @@
 @import 'additional-styles/range-slider.css';
 @import 'additional-styles/toggle-switch.css';
 @import 'additional-styles/theme.css';
+@import 'additional-styles/additional.css';
 
 @tailwind base;
 @tailwind components;

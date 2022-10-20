@@ -2,7 +2,7 @@
   <section class="relative">
 
     <!-- Dark background -->
-    <div class="absolute inset-0 bg-slate-900 pointer-events-none -z-10 [clip-path:polygon(0_0,_5760px_0,_5760px_calc(100%_-_352px),_0_100%)]" aria-hidden="true"></div>
+    <div class="absolute inset-0 bg-slate-900 bg-blue-400 pointer-events-none -z-10 [clip-path:polygon(0_0,_5760px_0,_5760px_calc(100%_-_352px),_0_100%)]" aria-hidden="true"></div>
 
     <div class="relative max-w-6xl mx-auto px-4 sm:px-6">
       <div class="pt-32 pb-20 md:pt-40 md:pb-44">
@@ -12,16 +12,16 @@
 
           <!-- Content -->
           <div class="text-center md:text-left md:min-w-[30rem]" data-aos="fade-right">
-            <h1 class="h1 font-playfair-display text-slate-100 mb-4">Create stunning web experiences</h1>
-            <p class="text-xl text-slate-400 mb-8">Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.</p>
+            <h1 class="h1 font-playfair-display text-slate-100 mb-4">Hello There!</h1>
+            <p class="text-xl text-slate-400 text-white mb-8">Is your online engagement, Engaging? Is that agency too busy to pick up the phone? Is your SEO not gaining traction? Your business deserves better</p>
             <div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4">
               <div>
                 <router-link class="btn text-white bg-blue-600 hover:bg-blue-700 w-full group" to="/request-demo">
-                  Request Demo <span class="tracking-normal text-blue-300 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+                  ...Maybe <span class="tracking-normal text-blue-300 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                 </router-link>
               </div>
               <div>
-                <router-link class="btn text-white bg-slate-700 hover:bg-slate-800 w-full" to="#0">Explore Product</router-link>
+                <router-link class="btn text-white bg-slate-700 hover:bg-slate-800 w-full" to="#0">Show me your stuff</router-link>
               </div>
             </div>
           </div>

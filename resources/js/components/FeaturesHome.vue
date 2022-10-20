@@ -8,8 +8,8 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12">
-          <h2 class="h2 font-playfair-display text-slate-800 mb-4">Built exclusively for you</h2>
-          <p class="text-xl text-slate-500">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.</p>
+          <h2 class="h2 font-playfair-display text-slate-800 mb-4">I've done this before</h2>
+          <p class="text-xl text-slate-500">Website Design, Print Design, Branding Packages, SEO Campaigns</p>
         </div>
 
         <!-- Section content -->
@@ -24,7 +24,7 @@
                   <path fill-opacity=".64" fill="#5091EE" d="M29 20h3v16h-3zM35 20h1v16h-1z" />
                 </svg>
               </div>
-              <div class="md:text-lg leading-tight font-semibold text-slate-800">Internal Feedback</div>
+              <div class="md:text-lg leading-tight font-semibold text-slate-800">Website Design</div>
             </button>
             <button class="text-center transition-opacity" :class="tab === 2 || 'opacity-50 hover:opacity-75'" @click="tab = 2">
               <div class="inline-flex bg-white rounded-full shadow-md mb-3">
@@ -33,7 +33,7 @@
                   <path fill="#2174EA" d="M20 25h11v11H20z" />
                 </svg>
               </div>
-              <div class="md:text-lg leading-tight font-semibold text-slate-800">Internal Feedback</div>
+              <div class="md:text-lg leading-tight font-semibold text-slate-800">Print Design</div>
             </button>
             <button class="text-center transition-opacity" :class="tab === 3 || 'opacity-50 hover:opacity-75'" @click="tab = 3">
               <div class="inline-flex bg-white rounded-full shadow-md mb-3">
@@ -44,7 +44,7 @@
                   <path fill="#2174EA" d="M27 36l-7-7v7z" />
                 </svg>
               </div>
-              <div class="md:text-lg leading-tight font-semibold text-slate-800">Internal Feedback</div>
+              <div class="md:text-lg leading-tight font-semibold text-slate-800">Branding Packages</div>
             </button>
             <button class="text-center transition-opacity" :class="tab === 4 || 'opacity-50 hover:opacity-75'" @click="tab = 4">
               <div class="inline-flex bg-white rounded-full shadow-md mb-3">
@@ -53,7 +53,7 @@
                   <path d="M35 21h-8c-.6 0-1 .4-1 1v11c0 .7-.2 1.4-.6 2H33c1.7 0 3-1.3 3-3V22c0-.6-.4-1-1-1z" fill="#2174EA" />
                 </svg>
               </div>
-              <div class="md:text-lg leading-tight font-semibold text-slate-800">Internal Feedback</div>
+              <div class="md:text-lg leading-tight font-semibold text-slate-800">SEO Campaigns</div>
             </button>
           </div>
 

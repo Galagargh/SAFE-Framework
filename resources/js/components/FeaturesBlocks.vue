@@ -42,8 +42,8 @@
               <use fill="#000" filter="url(#fb1-d)" xlink:href="#fb1-e" />
               <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb1-e" />
             </svg>
-            <h3 class="h4 font-playfair-display mb-2">Robust Workflow</h3>
-            <p class="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            <h3 class="h4 font-playfair-display mb-2">Paid Search and SEO</h3>
+            <p class="text-lg text-slate-500">Page 1 or Bust. With professional experience in launching unique successful campaigns, let's help you reach a wider audience.</p>
           </div>
 
           <!-- 2nd item -->
@@ -79,8 +79,8 @@
               </g>
               <path d="M32.5 36a3.5 3.5 0 110-7 3.5 3.5 0 010 7z" fill-opacity=".64" fill="#5091EE" />
             </svg>
-            <h3 class="h4 font-playfair-display mb-2">Robust Workflow</h3>
-            <p class="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            <h3 class="h4 font-playfair-display mb-2">Brand Design</h3>
+            <p class="text-lg text-slate-500">With someone who has experience across Print and Digital media, we can come up with a marketing solution that is best suited for your companies needs.</p>
           </div>
 
           <!-- 3rd item -->
@@ -111,104 +111,8 @@
               <use fill="#000" filter="url(#fb3-c)" xlink:href="#fb3-d" />
               <use fill="url(#fb3-e)" xlink:href="#fb3-d" />
             </svg>
-            <h3 class="h4 font-playfair-display mb-2">Robust Workflow</h3>
-            <p class="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-          </div>
-
-          <!-- 4th item -->
-          <div class="relative" data-aos="fade-up" data-aos-anchor="[data-aos-id-blocks]" data-aos-delay="300">
-            <svg class="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-              <defs>
-                <filter x="-29.2%" y="-11.5%" width="158.3%" height="132.2%" filterUnits="objectBoundingBox" id="fb4-a">
-                  <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1" />
-                  <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
-                  <feColorMatrix values="0 0 0 0 0.062745098 0 0 0 0 0.11372549 0 0 0 0 0.176470588 0 0 0 0.12 0" in="shadowBlurOuter1" />
-                </filter>
-                <filter x="-29.2%" y="-11.5%" width="158.3%" height="132.2%" filterUnits="objectBoundingBox" id="fb4-d">
-                  <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1" />
-                  <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
-                  <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1" />
-                  <feColorMatrix values="0 0 0 0 0.062745098 0 0 0 0 0.11372549 0 0 0 0 0.176470588 0 0 0 0.12 0" in="shadowBlurOuter1" />
-                </filter>
-                <path d="M32 24.691l-10.737-2.656a1.007 1.007 0 00-.87.17c-.247.19-.393.483-.393.795v17a1 1 0 00.737.965L32 43.764V24.691z" id="fb4-b" />
-                <path d="M43.607 22.205a1.012 1.012 0 00-.87-.17L32 24.691v19.073l11.263-2.799A1 1 0 0044 40V23c0-.312-.146-.605-.393-.795z" id="fb4-e" />
-                <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="fb4-c">
-                  <stop stop-color="#FFF" offset="0%" />
-                  <stop stop-color="#E2EEFF" offset="100%" />
-                </linearGradient>
-              </defs>
-              <rect class="fill-current text-blue-600" width="64" height="64" rx="32" />
-              <use fill="#000" filter="url(#fb4-a)" xlink:href="#fb4-b" />
-              <use fill="url(#fb4-c)" xlink:href="#fb4-b" />
-              <use fill="#000" filter="url(#fb4-d)" xlink:href="#fb4-e" />
-              <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb4-e" />
-            </svg>
-            <h3 class="h4 font-playfair-display mb-2">Robust Workflow</h3>
-            <p class="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-          </div>
-
-          <!-- 5th item -->
-          <div class="relative" data-aos="fade-up" data-aos-anchor="[data-aos-id-blocks]" data-aos-delay="400">
-            <svg class="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-              <defs>
-                <filter x="-29.2%" y="-22.7%" width="158.3%" height="163.6%" filterUnits="objectBoundingBox" id="fb5-a">
-                  <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1" />
-                  <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
-                  <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1" />
-                  <feColorMatrix values="0 0 0 0 0.062745098 0 0 0 0 0.11372549 0 0 0 0 0.176470588 0 0 0 0.12 0" in="shadowBlurOuter1" />
-                </filter>
-                <filter x="-15.9%" y="-11.4%" width="131.8%" height="131.8%" filterUnits="objectBoundingBox" id="fb5-c">
-                  <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1" />
-                  <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
-                  <feColorMatrix values="0 0 0 0 0.062745098 0 0 0 0 0.11372549 0 0 0 0 0.176470588 0 0 0 0.12 0" in="shadowBlurOuter1" />
-                </filter>
-                <path id="fb5-b" d="M26 21h12v11H26z" />
-                <path d="M40 21h-4v10l-4-3-4 3V21h-4a3 3 0 00-3 3v16a3 3 0 003 3h16a3 3 0 003-3V24a3 3 0 00-3-3z" id="fb5-d" />
-                <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="fb5-e">
-                  <stop stop-color="#FFF" offset="0%" />
-                  <stop stop-color="#E2EEFF" offset="100%" />
-                </linearGradient>
-              </defs>
-              <rect class="fill-current text-blue-600" width="64" height="64" rx="32" />
-              <use fill="#000" filter="url(#fb5-a)" xlink:href="#fb5-b" />
-              <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb5-b" />
-              <use fill="#000" filter="url(#fb5-c)" xlink:href="#fb5-d" />
-              <use fill="url(#fb5-e)" xlink:href="#fb5-d" />
-            </svg>
-            <h3 class="h4 font-playfair-display mb-2">Robust Workflow</h3>
-            <p class="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-          </div>
-
-          <!-- 6th item -->
-          <div class="relative" data-aos="fade-up" data-aos-anchor="[data-aos-id-blocks]" data-aos-delay="500">
-            <svg class="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-              <defs>
-                <filter x="-14.6%" y="-11.4%" width="129.2%" height="132%" filterUnits="objectBoundingBox" id="fb6-a">
-                  <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1" />
-                  <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
-                  <feColorMatrix values="0 0 0 0 0.062745098 0 0 0 0 0.11372549 0 0 0 0 0.176470588 0 0 0 0.12 0" in="shadowBlurOuter1" />
-                </filter>
-                <filter x="-29.2%" y="-20.8%" width="158.3%" height="158.3%" filterUnits="objectBoundingBox" id="fb6-d">
-                  <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1" />
-                  <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
-                  <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1" />
-                  <feColorMatrix values="0 0 0 0 0.062745098 0 0 0 0 0.11372549 0 0 0 0 0.176470588 0 0 0 0.12 0" in="shadowBlurOuter1" />
-                </filter>
-                <path d="M41.95 24.051A6.957 6.957 0 0037 22a6.956 6.956 0 00-5 2.102l-.05-.051A6.957 6.957 0 0027 22c-1.87 0-3.627.729-4.95 2.051A6.948 6.948 0 0020 29c0 1.87.728 3.627 2.05 4.949l9.95 9.95 9.95-9.95A6.952 6.952 0 0044 29a6.954 6.954 0 00-2.05-4.949z" id="fb6-b" />
-                <path d="M36 33a6 6 0 100 12 6 6 0 000-12z" id="fb6-e" />
-                <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="fb6-c">
-                  <stop stop-color="#FFF" offset="0%" />
-                  <stop stop-color="#E2EEFF" offset="100%" />
-                </linearGradient>
-              </defs>
-              <rect class="fill-current text-blue-600" width="64" height="64" rx="32" />
-              <use fill="#000" filter="url(#fb6-a)" xlink:href="#fb6-b" />
-              <use fill="url(#fb6-c)" xlink:href="#fb6-b" />
-              <use fill="#000" filter="url(#fb6-d)" xlink:href="#fb6-e" />
-              <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb6-e" />
-            </svg>
-            <h3 class="h4 font-playfair-display mb-2">Robust Workflow</h3>
-            <p class="text-lg text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            <h3 class="h4 font-playfair-display mb-2">Tailored Experience</h3>
+            <p class="text-lg text-slate-500">Feeling left out in the cold by your agency and want to feel a part of the process? Respect your business and expect personable daily updates.</p>
           </div>
 
         </div>

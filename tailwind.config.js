@@ -18,6 +18,8 @@ module.exports = {
             },
             fontFamily: {
                 inter: ['Inter', 'sans-serif'],
+                satoshi: ['Satoshi-Variable'],
+                erode: ['erode'],
                 'playfair-display': ['Playfair Display', 'serif'],
             },
             fontSize: {

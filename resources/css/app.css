@@ -4,6 +4,8 @@
 @import 'additional-styles/range-slider.css';
 @import 'additional-styles/toggle-switch.css';
 @import 'additional-styles/theme.css';
+@import 'fonts/satoshi.css';
+@import 'fonts/erode.css';
 @import 'additional-styles/additional.css';
 
 @tailwind base;

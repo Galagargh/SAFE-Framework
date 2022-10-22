@@ -36,14 +36,14 @@
                   <stop stop-color="#E2EEFF" offset="100%" />
                 </linearGradient>
               </defs>
-              <rect class="fill-current text-blue-600" width="64" height="64" rx="32" />
+              <rect class="fill-blue-400 text-blue-600" width="64" height="64" rx="32" />
               <use fill="#000" filter="url(#fb1-a)" xlink:href="#fb1-b" />
               <use fill="url(#fb1-c)" xlink:href="#fb1-b" />
               <use fill="#000" filter="url(#fb1-d)" xlink:href="#fb1-e" />
               <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb1-e" />
             </svg>
-            <h3 class="h4 font-playfair-display mb-2">Paid Search and SEO</h3>
-            <p class="text-lg text-slate-500">Page 1 or Bust. With professional experience in launching unique successful campaigns, let's help you reach a wider audience.</p>
+            <h3 class="h4 font-satoshi text-slate-900 mb-2">Paid Search and SEO</h3>
+            <p class="text-lg font-erode font-normal text-slate-500">Page 1 or Bust. With professional experience in launching unique successful campaigns, let's help you reach a wider audience.</p>
           </div>
 
           <!-- 2nd item -->
@@ -68,7 +68,7 @@
                   <stop stop-color="#E2EEFF" offset="100%" />
                 </linearGradient>
               </defs>
-              <rect class="fill-current text-blue-600" width="64" height="64" rx="32" />
+              <rect class="fill-blue-400 text-blue-600" width="64" height="64" rx="32" />
               <g transform="rotate(25 32.5 32.5)">
                 <use fill="#000" filter="url(#fb2-a)" xlink:href="#fb2-b" />
                 <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb2-b" />
@@ -79,8 +79,8 @@
               </g>
               <path d="M32.5 36a3.5 3.5 0 110-7 3.5 3.5 0 010 7z" fill-opacity=".64" fill="#5091EE" />
             </svg>
-            <h3 class="h4 font-playfair-display mb-2">Brand Design</h3>
-            <p class="text-lg text-slate-500">With someone who has experience across Print and Digital media, we can come up with a marketing solution that is best suited for your companies needs.</p>
+            <h3 class="h4 font-satoshi mb-2">Brand Design</h3>
+            <p class="text-lg font-erode font-normal text-slate-500">With someone who has experience across Print and Digital media, we can come up with a marketing solution that is best suited for your companies needs.</p>
           </div>
 
           <!-- 3rd item -->
@@ -105,14 +105,14 @@
                   <stop stop-color="#E2EEFF" offset="100%" />
                 </linearGradient>
               </defs>
-              <rect class="fill-current text-blue-600" width="64" height="64" rx="32" />
+              <rect class="fill-blue-400 text-blue-600" width="64" height="64" rx="32" />
               <use fill="#000" filter="url(#fb3-a)" xlink:href="#fb3-b" />
               <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb3-b" />
               <use fill="#000" filter="url(#fb3-c)" xlink:href="#fb3-d" />
               <use fill="url(#fb3-e)" xlink:href="#fb3-d" />
             </svg>
-            <h3 class="h4 font-playfair-display mb-2">Tailored Experience</h3>
-            <p class="text-lg text-slate-500">Feeling left out in the cold by your agency and want to feel a part of the process? Respect your business and expect personable daily updates.</p>
+            <h3 class="h4 font-satoshi mb-2">Tailored Experience</h3>
+            <p class="text-lg font-erode font-normal text-slate-500">Feeling left out in the cold by your agency and want to feel a part of the process? Respect your business and expect personable daily updates.</p>
           </div>
 
         </div>

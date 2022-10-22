@@ -2,9 +2,9 @@
   <section class="relative">
 
     <!-- Dark background -->
-    <div class="absolute inset-0 bg-slate-900 pointer-events-none -z-10 mb-48 lg:mb-0 lg:h-[30rem]" aria-hidden="true">
+    <div class="absolute inset-0 bg-red-500 pointer-events-none -z-10 mb-48 lg:mb-0 lg:h-[30rem]" aria-hidden="true">
       <div class="w-full h-full" data-aos="fade">
-        <img class="opacity-10 w-full h-full object-cover" src="../../images/about-hero.jpg" width="1440" height="497" alt="Hero" />
+        <img class="opacity-10 w-full h-full object-cover" src="../../images/web.jpg" width="1440" height="497" alt="Hero" />
       </div>
     </div>
 

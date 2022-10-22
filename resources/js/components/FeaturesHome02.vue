@@ -5,7 +5,7 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 font-playfair-display text-slate-800">The quick brown fox jumped over the lazy dog</h2>
+          <h2 class="h2 font-satoshi text-slate-800">The quick brown fox jumped over the lazy dog</h2>
         </div>
 
         <!-- Section content -->
@@ -59,7 +59,7 @@
           <!-- Content -->
           <div class="md:w-7/12 lg:w-1/2" data-aos="fade-up">
             <div class="mb-8 text-center md:text-left">
-              <h3 class="h3 text-slate-800 font-playfair-display mb-3">Built exclusively for you</h3>
+              <h3 class="h3 text-slate-800 font-satoshi mb-3">Built exclusively for you</h3>
               <p class="text-xl text-slate-500">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.</p>
             </div>
             <!-- Tabs buttons -->

@@ -1,15 +1,15 @@
 <template>
   <section class="relative">
 
-    <div class="absolute inset-0 bg-slate-100 pointer-events-none mb-64 md:mb-80" aria-hidden="true"></div>
+    <div class="absolute inset-0 bg-slate-100 bg-blue-400 pointer-events-none mb-64 md:mb-80" aria-hidden="true"></div>
 
     <div class="relative max-w-6xl mx-auto px-4 sm:px-6">
       <div class="py-12 md:py-20">
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12">
-          <h2 class="h2 font-satoshi  text-slate-800 mb-4">I've done this before</h2>
-          <p class="text-xl text-slate-500">Website Design, Print Design, Branding Packages, SEO Campaigns. Picking the appropriate marketing solution for your needs depends on a number of factors, your audience, budget, and </p>
+          <h2 class="h2 font-satoshi text-slate-800 text-white mb-4">You’re an Entrepreneur</h2>
+          <p class="text-xl text-slate-500 text-white">You naturally wear many hats, but the thought of adding yet another string to your bow is taking away your attention from other more pressing issues in your business. Once you start digging, you soon learn marketing is a rabbit hole, and requires constant upkeep.</p>
         </div>
 
         <!-- Section content -->
@@ -29,7 +29,7 @@
                       <path fill-opacity=".45" fill="#2174EA" d="M419.13,448H92.87A44.92,44.92,0,0,1,48,403.13V204.87A44.92,44.92,0,0,1,92.87,160H419.13A44.92,44.92,0,0,1,464,204.87V403.13A44.92,44.92,0,0,1,419.13,448Z"/>
                   </svg>
               </div>
-              <div class="md:text-lg leading-tight font-semibold text-slate-800">Website Design</div>
+              <div class="md:text-lg leading-tight font-semibold text-slate-800 text-white">Website Design</div>
             </button>
             <button class="text-center transition-opacity" :class="tab === 2 || 'opacity-50 hover:opacity-75'" @click="tab = 2">
               <div class="inline-flex bg-white rounded-full shadow-md mb-3">
@@ -42,7 +42,7 @@
                       <path fill="#2174EA" d="M481.92,53.3A31.33,31.33,0,0,0,464,48h0c-67.61.3-118.11,8.71-154.24,26a143.31,143.31,0,0,0-32.31,20.78,15.93,15.93,0,0,0-5.45,12V443.91a3.93,3.93,0,0,0,6.68,2.81c25.67-25.5,70.72-46.82,185.36-46.81a32,32,0,0,0,32-32v-288A32,32,0,0,0,481.92,53.3Z"/>
                   </svg>
               </div>
-              <div class="md:text-lg leading-tight font-semibold text-slate-800">Print Design</div>
+              <div class="md:text-lg leading-tight font-semibold text-slate-800 text-white">Print Design</div>
             </button>
             <button class="text-center transition-opacity" :class="tab === 3 || 'opacity-50 hover:opacity-75'" @click="tab = 3">
               <div class="inline-flex bg-white rounded-full shadow-md mb-3">
@@ -62,7 +62,7 @@
                       <path fill="#2174EA" fill-opacity=".45" d="M302.57,308.33a135.94,135.94,0,0,0-43.87-81.58,4.06,4.06,0,0,0-5.4,0,135.94,135.94,0,0,0-43.87,81.58,4,4,0,0,0,2.69,4.4,136.06,136.06,0,0,0,87.76,0A4,4,0,0,0,302.57,308.33Z"/>
                   </svg>
               </div>
-              <div class="md:text-lg leading-tight font-semibold text-slate-800">Branding Packages</div>
+              <div class="md:text-lg leading-tight font-semibold text-slate-800 text-white">Branding Packages</div>
             </button>
             <button class="text-center transition-opacity" :class="tab === 4 || 'opacity-50 hover:opacity-75'" @click="tab = 4">
               <div class="inline-flex bg-white rounded-full shadow-md mb-3">
@@ -74,7 +74,7 @@
                       <path fill="#2174EA" d="M456,128a40,40,0,0,0-37.23,54.6L334.6,266.77a39.86,39.86,0,0,0-29.2,0L245.23,206.6a40,40,0,1,0-74.46,0L70.6,306.77A40,40,0,1,0,93.23,329.4L193.4,229.23a39.86,39.86,0,0,0,29.2,0l60.17,60.17a40,40,0,1,0,74.46,0l84.17-84.17A40,40,0,1,0,456,128Z"/>
                   </svg>
               </div>
-              <div class="md:text-lg leading-tight font-semibold text-slate-800">SEO Campaigns</div>
+              <div class="md:text-lg leading-tight font-semibold text-slate-800 text-white">SEO Campaigns</div>
             </button>
           </div>
 

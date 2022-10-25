@@ -5,7 +5,7 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 font-satoshi text-slate-800">The quick brown fox jumped over the lazy dog</h2>
+          <h2 class="h2 font-satoshi text-slate-800 text-blue-500">Marketing options giving you Analysis Paralysis?</h2>
         </div>
 
         <!-- Section content -->
@@ -24,7 +24,7 @@
                 leave-to-class="opacity-0 translate-y-16"
               >
                 <div class="w-full" v-show="tab === 1">
-                  <img class="md:max-w-none mx-auto rounded" src="../../images/features-home-02.png" width="540" height="620" alt="Features home 2 01" />
+                  <img class="md:max-w-none mx-auto rounded" src="../../images/featured_image_print.png" width="540" height="620" alt="Features home 2 01" />
                 </div>
               </transition>
               <!-- Item 2 -->
@@ -37,7 +37,7 @@
                 leave-to-class="opacity-0 translate-y-16"
               >
                 <div class="w-full" v-show="tab === 2">
-                  <img class="md:max-w-none mx-auto rounded" src="../../images/features-home-02.png" width="540" height="620" alt="Features home 2 02" />
+                  <img class="md:max-w-none mx-auto rounded" src="../../images/featured_images_budget.png" width="540" height="620" alt="Features home 2 02" />
                 </div>
               </transition>
               <!-- Item 3 -->
@@ -50,7 +50,7 @@
                 leave-to-class="opacity-0 translate-y-16"
               >
                 <div class="w-full" v-show="tab === 3">
-                  <img class="md:max-w-none mx-auto rounded" src="../../images/features-home-02.png" width="540" height="620" alt="Features home 2 03" />
+                  <img class="md:max-w-none mx-auto rounded" src="../../images/featured_images_audience.png" width="540" height="620" alt="Features home 2 03" />
                 </div>
               </transition>
             </div>
@@ -59,8 +59,8 @@
           <!-- Content -->
           <div class="md:w-7/12 lg:w-1/2" data-aos="fade-up">
             <div class="mb-8 text-center md:text-left">
-              <h3 class="h3 text-slate-800 font-satoshi mb-3">Built exclusively for you</h3>
-              <p class="text-xl text-slate-500">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.</p>
+              <h3 class="h3 text-slate-800 font-satoshi mb-3">Let’s find the solution</h3>
+              <p class="text-xl text-slate-500">Picking the right marketing solution for your needs depends on a number of factors.</p>
             </div>
             <!-- Tabs buttons -->
             <div class="mb-8 md:mb-0">
@@ -70,8 +70,8 @@
                   <path d="M8 16c-4.4 0-8-3.6-8-8 0-.6.4-1 1-1s1 .4 1 1c0 3.3 2.7 6 6 6s6-2.7 6-6-2.7-6-6-6c-.6 0-1-.4-1-1s.4-1 1-1c4.4 0 8 3.6 8 8s-3.6 8-8 8Z" />
                 </svg>
                 <div>
-                  <div class="text-slate-800 font-medium mb-1">Internal Feedback</div>
-                  <div class="text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur velit.</div>
+                  <div class="text-slate-800 font-medium mb-1">Audience</div>
+                  <div class="text-slate-500">Younger and Older Demographics change the platforms you target. Interested in TikTok? Want to capitalise on the Podcast movement?</div>
                 </div>
               </button>
               <button :class="tab !== 2 ? 'border-transparent opacity-50 hover:opacity-75' : 'border-2 border-blue-500 opacity-100'" class="flex items-start text-left bg-white border-2 px-5 py-3 rounded shadow-md transition duration-300 ease-in-out mb-3" @click="tab = 2">
@@ -79,8 +79,8 @@
                   <path d="M4.019 15.276.034 1.329A1.058 1.058 0 0 1 1.33.034L15.276 4.02c.896.299.996 1.494.1 1.893L8.8 8.8l-2.79 6.574c-.498.897-1.693.797-1.992-.1ZM2.525 2.525l2.69 9.463 1.892-4.383c.1-.199.299-.398.498-.498l4.383-1.893-9.463-2.69Z" />
                 </svg>
                 <div>
-                  <div class="text-slate-800 font-medium mb-1">Internal Feedback</div>
-                  <div class="text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur velit.</div>
+                  <div class="text-slate-800 font-medium mb-1">Budget</div>
+                  <div class="text-slate-500">Large or Small scale businesses require separate needs at different stages of their growth. Need to build a brand from the ground up? How about helping your company climb the Google rankings?</div>
                 </div>
               </button>
               <button :class="tab !== 3 ? 'border-transparent opacity-50 hover:opacity-75' : 'border-2 border-blue-500 opacity-100'" class="flex items-start text-left bg-white border-2 px-5 py-3 rounded shadow-md transition duration-300 ease-in-out" @click="tab = 3">
@@ -88,8 +88,9 @@
                   <path d="M15.686 5.71 10.291.3c-.4-.4-.999-.4-1.399 0a.97.97 0 0 0 0 1.403l.6.6L2.698 6.01l-1-1.002c-.4-.4-.999-.4-1.398 0a.97.97 0 0 0 0 1.403l1.498 1.502 2.398 2.404L.6 14.023 2 15.425l3.696-3.706 3.997 4.007c.5.5 1.199.2 1.398 0a.97.97 0 0 0 0-1.402l-.999-1.002 3.697-6.711.6.6c.599.602 1.199.201 1.398 0 .3-.4.3-1.1-.1-1.502Zm-7.193 6.11L4.196 7.511l6.695-3.706 1.298 1.302-3.696 6.711Z" />
                 </svg>
                 <div>
-                  <div class="text-slate-800 font-medium mb-1">Internal Feedback</div>
-                  <div class="text-slate-500">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur velit.</div>
+                  <div class="text-slate-800 font-medium mb-1">Product</div>
+                  <div class="text-slate-500">What your selling will affect how it’s marketed, your brand voice, and even influence the Design. Your instinct is right, it’s best to trust all of this to one person who truly knows your brand, but you can’t do everything.
+                  </div>
                 </div>
               </button>
             </div>

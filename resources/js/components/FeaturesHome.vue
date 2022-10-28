@@ -9,7 +9,7 @@
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12">
           <h2 class="h2 font-satoshi text-slate-800 text-white mb-4">You’re an Entrepreneur</h2>
-          <p class="text-xl text-slate-500 text-white">You naturally wear many hats, but the thought of adding yet another string to your bow is taking away your attention from other more pressing issues in your business. Once you start digging, you soon learn marketing is a rabbit hole, and requires constant upkeep.</p>
+          <p class="text-xl text-slate-500 text-white font-erode">You naturally wear many hats, but the thought of adding yet another string to your bow is taking away your attention from other more pressing issues in your business. Once you start digging, you soon learn marketing is a rabbit hole, requiring constant upkeep.</p>
         </div>
 
         <!-- Section content -->
@@ -101,7 +101,7 @@
               leave-to-class="opacity-0 translate-y-16"
             >
               <div class="w-full" v-show="tab === 2">
-                <img class="mx-auto shadow-2xl" src="../../images/features-home-01.jpg" width="768" height="474" alt="Features home 02" />
+                <img class="mx-auto shadow-2xl" src="../../images/features-home-02.jpg" width="768" height="474" alt="Features home 02" />
               </div>
             </transition>
             <transition
@@ -113,7 +113,7 @@
               leave-to-class="opacity-0 translate-y-16"
             >
               <div class="w-full" v-show="tab === 3">
-                <img class="mx-auto shadow-2xl" src="../../images/features-home-01.jpg" width="768" height="474" alt="Features home 03" />
+                <img class="mx-auto shadow-2xl" src="../../images/features-home-03.jpg" width="768" height="474" alt="Features home 03" />
               </div>
             </transition>
             <transition
@@ -125,7 +125,7 @@
               leave-to-class="opacity-0 translate-y-16"
             >
               <div class="w-full" v-show="tab === 4">
-                <img class="mx-auto shadow-2xl" src="../../images/features-home-01.jpg" width="768" height="474" alt="Features home 04" />
+                <img class="mx-auto shadow-2xl" src="../../images/features-home-04.jpg" width="768" height="474" alt="Features home 04" />
               </div>
             </transition>
           </div>

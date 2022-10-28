@@ -4,7 +4,7 @@ import Pricing from './pages/Pricing.vue'
 import About from './pages/About.vue'
 import Blog from './pages/Blog.vue'
 import BlogPost from './pages/BlogPost.vue'
-import WallOfLove from './pages/WallOfLove.vue'
+import Work from './pages/Work.vue';
 import WallOfLoveSingle from './pages/WallOfLoveSingle.vue'
 import PageNotFound from './pages/PageNotFound.vue'
 import Support from './pages/Support.vue'
@@ -48,8 +48,8 @@ const router = createRouter({
             component: BlogPost
         },
         {
-            path: '/wall-of-love',
-            component: WallOfLove
+            path: '/work',
+            component: Work
         },
         {
             path: '/wall-of-love-single',

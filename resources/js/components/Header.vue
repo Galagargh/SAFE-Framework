@@ -22,6 +22,9 @@
 
           <!-- Desktop menu links -->
           <ul class="flex grow justify-start flex-wrap items-center">
+              <li>
+                  <router-link to="/work" class="font-medium text-slate-800 hover:text-blue-600 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Work</router-link>
+              </li>
             <li>
               <router-link to="/pricing" class="font-medium text-white hover:text-blue-600 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Pricing</router-link>
             </li>
@@ -30,9 +33,6 @@
             </li>
             <li>
               <router-link to="/blog" class="font-medium text-slate-800 hover:text-blue-600 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Blog</router-link>
-            </li>
-            <li>
-              <router-link to="/wall-of-love" class="font-medium text-slate-800 hover:text-blue-600 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Wall of Love</router-link>
             </li>
             <!-- 1st level: hover -->
             <Dropdown title="Resources">
@@ -86,7 +86,10 @@
               class="absolute top-full h-screen pb-16 z-20 left-0 w-full overflow-scroll no-scrollbar bg-white"
             >
               <ul class="px-5 py-2">
-                <li>
+              <li>
+                  <router-link to="/work" class="flex font-medium text-slate-800 hover:text-blue-600 py-2">Work</router-link>
+              </li>
+               <li>
                   <router-link to="/pricing" class="flex font-medium text-slate-800 hover:text-blue-600 py-2">Pricing</router-link>
                 </li>
                 <li>
@@ -94,9 +97,6 @@
                 </li>
                 <li>
                   <router-link to="/blog" class="flex font-medium text-slate-800 hover:text-blue-600 py-2">Blog</router-link>
-                </li>
-                <li>
-                  <router-link to="/wall-of-love" class="flex font-medium text-slate-800 hover:text-blue-600 py-2">Wall of Love</router-link>
                 </li>
                 <li class="py-2 my-2 border-t border-b border-slate-200">
                   <span class="flex font-medium text-slate-800 hover:text-blue-600 py-2">Resources</span>

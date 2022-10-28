@@ -80,7 +80,7 @@
               <path d="M32.5 36a3.5 3.5 0 110-7 3.5 3.5 0 010 7z" fill-opacity=".64" fill="#5091EE" />
             </svg>
             <h3 class="h4 font-satoshi mb-2">Brand Design</h3>
-            <p class="text-lg font-erode font-normal text-slate-500">With someone who has experience across Print and Digital media, we can come up with a marketing solution that is best suited for your companies needs.</p>
+            <p class="text-lg font-erode font-normal text-slate-500">With someone who has design experience across Print and Digital media, we can come up with a marketing solution that is best suited for your companies needs.</p>
           </div>
 
           <!-- 3rd item -->

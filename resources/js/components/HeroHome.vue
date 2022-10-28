@@ -19,7 +19,7 @@
             <div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4">
               <div>
                 <router-link class="btn text-white font-satoshi bg-blue-600 hover:bg-blue-700 w-full group" to="/request-demo">
-                  ...Maybe <span class="tracking-normal text-blue-300 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+                  ...Tell Me More <span class="tracking-normal text-blue-300 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                 </router-link>
               </div>
               <div>

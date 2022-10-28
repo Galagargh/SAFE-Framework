@@ -9,12 +9,17 @@
 
       <!-- Page sections -->
       <HeroHome />
+      <!-- Service Features -->
       <FeaturesBlocks />
+      <!-- Offered Services -->
       <FeaturesHome />
+        <!-- Service Spiel -->
+        <ServiceIntro />
+
       <FeaturesHome02 />
-      <FeaturesHome03 />
+<!--      <FeaturesHome03 />-->
       <Target />
-      <PricingSection />
+<!--      <PricingSection />-->
       <Cta />
 
     </main>
@@ -29,9 +34,9 @@
 import Header from '../components/Header.vue'
 import HeroHome from '../components/HeroHome.vue'
 import FeaturesBlocks from '../components/FeaturesBlocks.vue'
+import ServiceIntro from '../components/ServiceIntro.vue'
 import FeaturesHome from '../components/FeaturesHome.vue'
 import FeaturesHome02 from '../components/FeaturesHome02.vue'
-import FeaturesHome03 from '../components/FeaturesHome03.vue'
 import Target from '../components/Target.vue'
 import PricingSection from '../components/PricingSection.vue'
 import Cta from '../components/Cta.vue'
@@ -43,9 +48,9 @@ export default {
     Header,
     HeroHome,
     FeaturesBlocks,
+    ServiceIntro,
     FeaturesHome,
     FeaturesHome02,
-    FeaturesHome03,
     Target,
     PricingSection,
     Cta,

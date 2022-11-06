@@ -32,7 +32,7 @@ import CtaDark from '../components/CtaDark.vue'
 import Footer from '../components/Footer.vue'
 
 export default {
-  name: 'WallOfLove',
+  name: 'Work',
   components: {
     Header,
     WofHero,

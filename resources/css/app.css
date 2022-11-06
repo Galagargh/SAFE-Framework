@@ -16,3 +16,7 @@
 [x-cloak=""] {
     display: none;
 }
+
+.filter-blue{
+    filter: invert(81%) sepia(35%) saturate(6397%) hue-rotate(189deg) brightness(95%) contrast(100%);
+}

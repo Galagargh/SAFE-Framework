@@ -49,6 +49,6 @@
 
 <script>
 export default {
-  name: 'Clients',
+  name: 'Trust',
 }
 </script>

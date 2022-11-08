@@ -9,8 +9,8 @@
 
       <!-- Page sections -->
       <WofHero />
-      <Clients />
-      <Customers />
+<!--      <Trust />-->
+      <Projects />
       <Testimonials />
       <CtaDark />
 
@@ -25,8 +25,8 @@
 <script>
 import Header from '../components/Header.vue'
 import WofHero from '../components/WofHero.vue'
-import Clients from '../components/Clients.vue'
-import Customers from '../components/Customers.vue'
+import Trust from '../components/Trust.vue'
+import Projects from '../components/Projects.vue'
 import Testimonials from '../components/Testimonials.vue'
 import CtaDark from '../components/CtaDark.vue'
 import Footer from '../components/Footer.vue'
@@ -36,8 +36,8 @@ export default {
   components: {
     Header,
     WofHero,
-    Clients,
-    Customers,
+    Trust,
+    Projects,
     Testimonials,
     CtaDark,
     Footer,

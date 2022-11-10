@@ -18,12 +18,12 @@
             <p class="text-xl text-slate-400 font-erode font-normal text-white mb-8">Is your online engagement, Engaging? Is that agency too busy to pick up the phone? Is your SEO not gaining traction? Your business deserves better</p>
             <div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4">
               <div>
-                <router-link class="btn text-white font-satoshi bg-blue-600 hover:bg-blue-700 w-full group" to="/request-demo">
+                <a class="btn text-white font-satoshi bg-blue-600 hover:bg-blue-700 w-full group" href="#go-on">
                   ...Tell Me More <span class="tracking-normal text-blue-300 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
-                </router-link>
+                </a>
               </div>
               <div>
-                <router-link class="btn text-white font-satoshi bg-slate-700 hover:bg-slate-800 w-full" to="#0">Show me your stuff</router-link>
+                <router-link class="btn text-white font-satoshi bg-slate-700 hover:bg-slate-800 w-full" to="/work">Show me your stuff</router-link>
               </div>
             </div>
           </div>

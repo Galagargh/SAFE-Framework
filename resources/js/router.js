@@ -25,6 +25,7 @@ const router = createRouter({
         }
     },
     history: routerHistory,
+    linkExactActiveClass: 'route-is-active',
 
     routes:[
         {

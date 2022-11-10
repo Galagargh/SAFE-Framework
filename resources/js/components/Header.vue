@@ -23,11 +23,11 @@
           <!-- Desktop menu links -->
           <ul class="flex grow justify-start flex-wrap items-center">
               <li>
-                  <router-link to="/work" class="font-medium text-slate-800 hover:text-blue-600 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Work</router-link>
+                  <router-link to="/work" class="font-medium text-slate-800 hover:text-blue-600 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Case Studies</router-link>
               </li>
-            <li>
-              <router-link to="/pricing" class="font-medium text-white hover:text-blue-600 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Pricing</router-link>
-            </li>
+<!--            <li>-->
+<!--              <router-link to="/pricing" class="font-medium text-slate-800 hover:text-blue-600 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Pricing</router-link>-->
+<!--            </li>-->
             <li>
               <router-link to="/about" class="font-medium text-slate-800 hover:text-blue-600 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">About</router-link>
             </li>

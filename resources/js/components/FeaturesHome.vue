@@ -1,5 +1,5 @@
 <template>
-  <section class="relative">
+  <section id="go-on" class="relative">
 
     <div class="absolute inset-0 bg-slate-100 bg-blue-400 pointer-events-none mb-64 md:mb-80" aria-hidden="true"></div>
 

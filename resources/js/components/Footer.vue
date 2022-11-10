@@ -6,7 +6,7 @@
       <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
 
         <!-- 1st block -->
-        <div class="sm:col-span-12 lg:col-span-4 lg:max-w-xs">
+        <div class="sm:col-span-12 lg:col-span-8 lg:max-w-xs">
           <div class="mb-2">
             <!-- Logo -->
             <router-link class="inline-flex transition duration-150 ease-in-out" to="/" aria-label="Cruip">
@@ -27,68 +27,62 @@
         </div>
 
         <!-- 2nd block -->
-        <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 class="text-sm text-slate-800 font-semibold mb-2">How it works</h6>
-          <ul class="text-sm font-medium space-y-2">
-            <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Overview</router-link>
-            </li>
-            <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Pricing</router-link>
-            </li>
-            <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Service Areas</router-link>
-            </li>
-          </ul>
-        </div>
+<!--        <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">-->
+<!--          <h6 class="text-sm text-slate-800 font-semibold mb-2">How it works</h6>-->
+<!--          <ul class="text-sm font-medium space-y-2">-->
+<!--            <li>-->
+<!--              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Overview</router-link>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Pricing</router-link>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Service Areas</router-link>-->
+<!--            </li>-->
+<!--          </ul>-->
+<!--        </div>-->
 
         <!-- 3rd block -->
-        <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 class="text-sm text-slate-800 font-semibold mb-2">Resources</h6>
-          <ul class="text-sm font-medium space-y-2">
-            <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Customer Stories</router-link>
-            </li>
-            <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Knowledge Base</router-link>
-            </li>
-            <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Contact Us</router-link>
-            </li>
-          </ul>
-        </div>
+<!--        <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">-->
+<!--          <h6 class="text-sm text-slate-800 font-semibold mb-2">Resources</h6>-->
+<!--          <ul class="text-sm font-medium space-y-2">-->
+<!--            <li>-->
+<!--              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Customer Stories</router-link>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Knowledge Base</router-link>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Contact Us</router-link>-->
+<!--            </li>-->
+<!--          </ul>-->
+<!--        </div>-->
 
         <!-- 4th block -->
         <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 class="text-sm text-slate-800 font-semibold mb-2">Products</h6>
+          <h6 class="text-sm text-slate-800 font-semibold mb-2">Sitemap</h6>
           <ul class="text-sm font-medium space-y-2">
+              <li>
+                  <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">The Pitch</router-link>
+              </li>
             <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Corporate Partners</router-link>
+              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Case Studies</router-link>
             </li>
             <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Secure Identity</router-link>
-            </li>
-            <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Legal Help</router-link>
-            </li>
-            <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">First Capital</router-link>
+              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">About</router-link>
             </li>
           </ul>
         </div>
 
         <!-- 5th block -->
         <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 class="text-sm text-slate-800 font-semibold mb-2">Company</h6>
+          <h6 class="text-sm text-slate-800 font-semibold mb-2">Info</h6>
           <ul class="text-sm font-medium space-y-2">
             <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">About Us</router-link>
+              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Cookie Policy</router-link>
             </li>
             <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Careers</router-link>
-            </li>
-            <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Terms of Use</router-link>
+              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Blog</router-link>
             </li>
           </ul>
         </div>
@@ -100,13 +94,16 @@
 
         <!-- Social links -->
         <ul class="flex space-x-6 mb-4 md:order-1 md:ml-4 md:mb-0">
-          <li>
-            <router-link class="text-blue-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0" aria-label="Twitter">
-              <svg class="w-5 h-5 fill-current" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                <path d="M20 3.897c-.75.33-1.5.577-2.333.66A4.4 4.4 0 0 0 19.5 2.33c-.833.495-1.667.825-2.583.99a4.053 4.053 0 0 0-3-1.32c-2.25 0-4.084 1.814-4.084 4.041 0 .33 0 .66.084.907-3.5-.164-6.5-1.814-8.5-4.288C1 3.32.833 3.98.833 4.722c0 1.402.75 2.639 1.834 3.381-.667 0-1.334-.165-1.834-.495v.083c0 1.98 1.417 3.629 3.25 3.958-.333.083-.666.165-1.083.165-.25 0-.5 0-.75-.082.5 1.65 2 2.804 3.833 2.804C4.667 15.608 2.917 16.268 1 16.268c-.333 0-.667 0-1-.082C1.833 17.34 4 18 6.25 18c7.583 0 11.667-6.186 11.667-11.546v-.495c.833-.578 1.5-1.32 2.083-2.062Z" />
-              </svg>
-            </router-link>
-          </li>
+            <li>
+                <a href="mailto:info@mgdesignuk.co.uk" class="text-sm text-slate-500 mr-4 hover:text-blue-700 transition-all">info@mgdesignuk.co.uk</a>
+            </li>
+<!--          <li>-->
+<!--            <router-link class="text-blue-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0" aria-label="Twitter">-->
+<!--              <svg class="w-5 h-5 fill-current" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">-->
+<!--                <path d="M20 3.897c-.75.33-1.5.577-2.333.66A4.4 4.4 0 0 0 19.5 2.33c-.833.495-1.667.825-2.583.99a4.053 4.053 0 0 0-3-1.32c-2.25 0-4.084 1.814-4.084 4.041 0 .33 0 .66.084.907-3.5-.164-6.5-1.814-8.5-4.288C1 3.32.833 3.98.833 4.722c0 1.402.75 2.639 1.834 3.381-.667 0-1.334-.165-1.834-.495v.083c0 1.98 1.417 3.629 3.25 3.958-.333.083-.666.165-1.083.165-.25 0-.5 0-.75-.082.5 1.65 2 2.804 3.833 2.804C4.667 15.608 2.917 16.268 1 16.268c-.333 0-.667 0-1-.082C1.833 17.34 4 18 6.25 18c7.583 0 11.667-6.186 11.667-11.546v-.495c.833-.578 1.5-1.32 2.083-2.062Z" />-->
+<!--              </svg>-->
+<!--            </router-link>-->
+<!--          </li>-->
 <!--          <li>-->
 <!--            <router-link class="text-blue-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0" aria-label="Facebook">-->
 <!--              <svg class="w-5 h-5 fill-current" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">-->

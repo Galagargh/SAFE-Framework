@@ -11,8 +11,8 @@
       <WofHero />
 <!--      <Trust />-->
       <Projects />
-      <Testimonials />
-      <CtaDark />
+<!--      <Testimonials />-->
+        <Cta />
 
     </main>
 
@@ -30,6 +30,7 @@ import Projects from '../components/Projects.vue'
 import Testimonials from '../components/Testimonials.vue'
 import CtaDark from '../components/CtaDark.vue'
 import Footer from '../components/Footer.vue'
+import Cta from '../components/Cta.vue'
 
 export default {
   name: 'Work',
@@ -40,6 +41,7 @@ export default {
     Projects,
     Testimonials,
     CtaDark,
+    Cta,
     Footer,
 },
 }

@@ -12,6 +12,7 @@
       <Stats02 />
       <AboutContent />
       <Team />
+        <Faqs />
       <TeamMembers />
       <Clients02 />
       <Cta02 />
@@ -34,6 +35,7 @@ import TeamMembers from '../components/TeamMembers.vue'
 import Clients02 from '../components/Clients02.vue'
 import Cta02 from '../components/Cta02.vue'
 import Footer from '../components/Footer.vue'
+import Faqs from '../components/Faqs.vue'
 
 export default {
   name: 'Home',
@@ -43,6 +45,7 @@ export default {
     Stats02,
     AboutContent,
     Team,
+    Faqs,
     TeamMembers,
     Clients02,
     Cta02,

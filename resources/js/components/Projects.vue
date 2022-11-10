@@ -16,7 +16,7 @@
             <!-- Content -->
             <div class="md:min-w-[30rem]" data-aos="fade-left">
               <h2 class="h3 md:text-4xl font-satoshi mb-4">
-                <router-link class="text-green-500 hover:underline hover:decoration-blue-100" to="/wall-of-love-single">Arkenstone Wealth</router-link>
+                <router-link class="text-blue-400 hover:underline hover:decoration-blue-100" to="/wall-of-love-single">Arkenstone Wealth</router-link>
               </h2>
               <p class="text-lg text-slate-500 border-l-2 border-slate-800 pl-4 mb-8">Award-winning design firm Black Inc. didn't get the personalized approach they wanted from colloboration tools - until they met Tidy.</p>
               <div class="space-y-3">
@@ -59,7 +59,7 @@
             <!-- Content -->
             <div class="md:min-w-[30rem]" data-aos="fade-left">
               <h2 class="h3 md:text-4xl font-satoshi mb-4">
-                <router-link class="text-green-500 hover:underline hover:decoration-blue-100" to="/wall-of-love-single">Pigotts Investments</router-link>
+                <router-link class="text-red-500 hover:underline hover:decoration-blue-100" to="/wall-of-love-single">Pigotts Investments</router-link>
               </h2>
               <p class="text-lg text-slate-500 border-l-2 border-slate-800 pl-4 mb-8">Professional communication studio Leon didn't get the personalized approach they wanted from colloboration tools - until they met Tidy.</p>
               <div class="space-y-3">

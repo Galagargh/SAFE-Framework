@@ -11,6 +11,9 @@ import Support from './pages/Support.vue'
 import SignIn from './pages/SignIn.vue'
 import ResetPassword from './pages/ResetPassword.vue'
 import RequestDemo from './pages/RequestDemo.vue'
+import Arkenstone from './pages/case-studies/arkenstone.vue';
+import Pigotts from './pages/case-studies/pigotts.vue';
+import Jewellery from './pages/case-studies/jewellery.vue';
 
 const routerHistory = createWebHistory()
 
@@ -55,6 +58,18 @@ const router = createRouter({
         {
             path: '/wall-of-love-single',
             component: WallOfLoveSingle
+        },
+        {
+            path: '/case-study/arkenstone',
+            component: Arkenstone
+        },
+        {
+            path: '/case-study/pigotts',
+            component: Pigotts
+        },
+        {
+            path: '/case-study/jewellery',
+            component: Jewellery
         },
         {
             path: '/support',

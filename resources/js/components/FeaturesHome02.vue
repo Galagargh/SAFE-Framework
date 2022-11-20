@@ -5,7 +5,7 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 font-satoshi text-slate-800 text-blue-500">Marketing options giving you Analysis Paralysis?</h2>
+          <h2 class="h2 font-satoshi text-slate-800 text-blue-500">Marketing options leaving you confused?</h2>
         </div>
 
         <!-- Section content -->
@@ -60,7 +60,7 @@
           <div class="md:w-7/12 lg:w-1/2" data-aos="fade-up">
             <div class="mb-8 text-center md:text-left">
               <h3 class="h3 text-slate-800 font-satoshi mb-3">Let’s find the solution</h3>
-              <p class="text-xl text-slate-500">Picking the right marketing solution for your needs depends on a number of factors.</p>
+              <p class="text-xl font-erode text-slate-500">Picking the right marketing solution for your needs depends on a number of factors.</p>
             </div>
             <!-- Tabs buttons -->
             <div class="mb-8 md:mb-0">

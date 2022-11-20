@@ -63,29 +63,29 @@
           <h6 class="text-sm text-slate-800 font-semibold mb-2">Sitemap</h6>
           <ul class="text-sm font-medium space-y-2">
               <li>
-                  <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">The Pitch</router-link>
+                  <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="/">The Pitch</router-link>
               </li>
             <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Case Studies</router-link>
+              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="/work">Case Studies</router-link>
             </li>
             <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">About</router-link>
+                <a class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" href="https://calendly.com/mgdesignuk/60min">Let's Talk</a>
             </li>
           </ul>
         </div>
 
         <!-- 5th block -->
-        <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 class="text-sm text-slate-800 font-semibold mb-2">Info</h6>
-          <ul class="text-sm font-medium space-y-2">
-            <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Cookie Policy</router-link>
-            </li>
-            <li>
-              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Blog</router-link>
-            </li>
-          </ul>
-        </div>
+<!--        <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">-->
+<!--          <h6 class="text-sm text-slate-800 font-semibold mb-2">Info</h6>-->
+<!--          <ul class="text-sm font-medium space-y-2">-->
+<!--            <li>-->
+<!--              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Cookie Policy</router-link>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--              <router-link class="text-slate-500 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Blog</router-link>-->
+<!--            </li>-->
+<!--          </ul>-->
+<!--        </div>-->
 
       </div>
 

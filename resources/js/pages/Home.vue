@@ -14,7 +14,7 @@
       <!-- Offered Services -->
       <FeaturesHome />
         <!-- Service Spiel -->
-        <ServiceIntro />
+      <ServiceIntro />
 
       <FeaturesHome02 />
 <!--      <FeaturesHome03 />-->

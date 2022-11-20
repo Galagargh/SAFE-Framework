@@ -6,7 +6,7 @@
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
           <h2 class="h2 font-satoshi text-slate-800 text-blue-500 mb-3">Hands on or Hands off</h2>
-          <p class="text-xl text-slate-500">As much input as you require, my aim is for us to connect so you trust your brand in my care. But after it’s handed off we can connect as much or as little as you require. Running a business is a 24 hour job, it’s up to you where you place that time.</p>
+          <p class="text-xl font-erode text-slate-500">As much input as you require, my aim is for us to connect so you trust your brand in my care. But after it’s handed off we can connect as much or as little as you require. Running a business is a 24 hour job, it’s up to you where you place that time.</p>
         </div>
 
         <!-- Section content -->

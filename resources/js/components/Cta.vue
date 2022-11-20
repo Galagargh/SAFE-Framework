@@ -13,7 +13,7 @@
 
           <div class="relative">
             <h2 class="h2 font-satoshi text-slate-800 mb-4">Let's find the <span class="text-blue-500">solution</span>.</h2>
-            <p class="text-xl text-slate-500 mb-8">Picking the right marketing solution for your needs depends on a number of factors, and when it comes to betting on the success of your business, put someone in your corner who is as hungry as you are. Put a date in my calendar and let’s brainstorm, together.</p>
+            <p class="text-xl font-erode text-slate-500 mb-8">Picking the right marketing solution for your needs depends on a number of factors, and when it comes to betting on the success of your business, put someone in your corner who is as hungry as you are. Put a date in my calendar and let’s brainstorm, together.</p>
             <div>
               <a class="btn text-white bg-blue-600 hover:bg-blue-700 group" href="https://calendly.com/mgdesignuk/60min">
                 Let's talk about it <span class="tracking-normal text-blue-300 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>

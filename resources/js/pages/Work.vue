@@ -12,7 +12,7 @@
 <!--      <Trust />-->
       <Projects />
 <!--      <Testimonials />-->
-        <Cta />
+    <Cta />
 
     </main>
 

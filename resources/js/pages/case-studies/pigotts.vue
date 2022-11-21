@@ -7,7 +7,11 @@
         <!-- Page content -->
         <main class="grow">
             <!-- Page sections -->
-            <WofSingleHero project-title="Pigotts Investments" project-date="March 3, 2019" project-image="../../images/wof-single.jpg" section-colour="bg-red-500" />
+            <WofSingleHero project-title="Pigotts Investments" project-date="March 3, 2019" project-image="../../images/wof-single.jpg" section-colour="bg-red-500">
+                <template #img>
+                    <img class="opacity-10 w-full h-full object-cover" src="../../../images/PigottsInvestments2.jpg" width="1440" height="497" alt="Hero" />
+                </template>
+            </WofSingleHero>
             <Stats section-colour="text-red-500" point-one="More Referrals" value-one="48%" point-two="More Daily Traffic" value-two="70%" point-three="Click-Through Rate" value-three="128%"/>
             <WofSingleContent section-colour="text-red-500"
                               section-one-head=""
@@ -22,7 +26,11 @@
                               section-five-content="Since the site redesign, customers noted being very impressed with the ease of finding information. Unique site visits also increased substantially."
                               blockquote-head="Client First"
                               blockquote-content="Developed for an already existing client-base at Pigotts request, It was seen as an ”Upgrade” for the existing clients by providing them with a new service as part of their already existing fees they pay towards managing their finances."
-            />
+            >
+                <template #img>
+                    <img class="w-full" src="../../../images/PigottsInvestments1.jpg" width="768" height="432" alt="Wall of Love single" />
+                </template>
+            </WofSingleContent>
             <!--            <RelatedStories />-->
         </main>
 

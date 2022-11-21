@@ -4,7 +4,7 @@
     <!-- Dark background -->
     <div class="absolute inset-0 pointer-events-none -z-10" :class="sectionColour" aria-hidden="true">
       <div class="w-full h-full" data-aos="fade">
-        <img class="opacity-10 w-full h-full object-cover" :src="projectImage" width="1440" height="497" alt="Hero" />
+          <slot name="img"/>
       </div>
     </div>
 

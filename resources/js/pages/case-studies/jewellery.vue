@@ -8,7 +8,11 @@
         <main className="grow">
             <!-- Page sections -->
             <WofSingleHero project-title="Alexandra Louise Jewellery" project-date="March 3, 2019"
-                           project-image="../../images/wof-single.jpg" section-colour="bg-orange-400"/>
+                           project-image="../../images/wof-single.jpg" section-colour="bg-orange-400">
+                <template #img>
+                    <img class="opacity-10 w-full h-full object-cover" src="../../../images/alex-hero.jpg" width="1440" height="497" alt="Hero" />
+                </template>
+            </WofSingleHero>
             <Stats section-colour="text-orange-500" point-one="More Referrals" value-one="48%"
                    point-two="More Daily Traffic" value-two="70%" point-three="Click-Through Rate" value-three="128%"/>
             <WofSingleContent section-colour="text-orange-500"

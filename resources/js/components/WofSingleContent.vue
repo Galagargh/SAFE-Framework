@@ -17,7 +17,7 @@
               </svg>
             </div>
               <figure class="mb-8">
-                  <img class="w-full" src="../../images/wof-single.jpg" width="768" height="432" alt="Wall of Love single" />
+                  <slot name="img"/>
               </figure>
 
               <h2 class="h3 font-satoshi text-slate-800 mb-4" :class="sectionColour">{{ sectionTwoHead }}</h2>
@@ -69,7 +69,18 @@
 <script>
 export default {
   name: 'WofSingleContent',
+    data() {
+        return {
+            image: '@/images/wof-single.jpg'
+        }
+    },
+    methods: {
+        getPhoto() {
+            return '../../images/wof-single.jpg';
+        }
+    },
     props: {
+      projectImage: String,
       sectionColour: String,
       sectionOneHead: String,
       sectionOneContent: String,
@@ -83,6 +94,6 @@ export default {
       sectionFiveContent: String,
       blockquoteHead: String,
       blockquoteContent: String
-    }
+    },
 }
 </script>

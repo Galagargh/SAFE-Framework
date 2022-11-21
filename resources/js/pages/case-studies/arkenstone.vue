@@ -7,7 +7,11 @@
         <!-- Page content -->
         <main class="grow">
             <!-- Page sections -->
-            <WofSingleHero project-title="Arkenstone Wealth Management" project-date="Sep 24, 2019" project-image="../../images/wof-single.jpg" section-colour="bg-blue-500" />
+            <WofSingleHero project-title="Arkenstone Wealth Management" project-date="Sep 24, 2019" project-image="../../images/wof-single.jpg" section-colour="bg-blue-500" >
+                <template #img>
+                    <img class="opacity-10 w-full h-full object-cover" src="../../../images/ArkenstoneProject2.jpg" width="1440" height="497" alt="Hero" />
+                </template>
+            </WofSingleHero>
             <Stats point-one="More Referrals" value-one="48%" point-two="More Daily Traffic" value-two="70%" point-three="Click-Through Rate" value-three="128%"/>
             <WofSingleContent section-colour="text-blue-500"
                               section-one-head=""
@@ -22,7 +26,11 @@
                               section-five-content="Since the branding overhaul, Google Analytics information from site visitors had revealed that the engagement of the 21-35 age range has significantly increased and had started to reach out for referrals. Since the site redesign, site traffic among all age ranges had increased dramatically also. With the viewing time of each visitor significantly increased. The approach taken for a modern look with a classic tale was a success."
                               blockquote-head="Responsive Content"
                               blockquote-content="It was important the site was viewable from mobile devices as this was the main traffic the website was receiving currently. It was developed in mind for a wide range of devices, with fallback implementations in place. In support of older devices."
-            />
+            >
+                <template #img>
+                    <img class="w-full" src="../../../images/ArkenstoneProject1.jpg" width="768" height="432" alt="Wall of Love single" />
+                </template>
+            </WofSingleContent>
 <!--            <RelatedStories />-->
         </main>
 

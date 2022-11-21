@@ -7,12 +7,12 @@
         <!-- Page content -->
         <main class="grow">
             <!-- Page sections -->
-            <WofSingleHero project-title="Arkenstone Wealth Management" project-date="Sep 24, 2019" project-image="../../images/wof-single.jpg" section-colour="bg-blue-500" >
+            <WofSingleHero project-title="Arkenstone Wealth Management" project-link="https://www.arkenstonewealth.co.uk/" project-date="Sep 24, 2019" project-image="../../images/wof-single.jpg" section-colour="bg-blue-500" >
                 <template #img>
                     <img class="opacity-10 w-full h-full object-cover" src="../../../images/ArkenstoneProject2.jpg" width="1440" height="497" alt="Hero" />
                 </template>
             </WofSingleHero>
-            <Stats point-one="More Referrals" value-one="48%" point-two="More Daily Traffic" value-two="70%" point-three="Click-Through Rate" value-three="128%"/>
+            <Stats point-one="More Unique Leads" value-one="48%" point-two="More Daily Traffic" value-two="70%" point-three="Click-Through Rate" value-three="128%"/>
             <WofSingleContent section-colour="text-blue-500"
                               section-one-head=""
                               section-one-content="Among one of the first projects I had worked on whilst at Goldmine Media was Arkenstone Wealth. Requesting a full-scope brand overhaul which would involve several stages, starting first with initial logo design and ending with full branding package and client facing site. The company themselves are an Independent Financial Advisor with a name derives from a fictional stone of great wealth in the well-known book The Hobbit. The initial concept was to design a logo based around this fictional stone, and attach it to the brand identity."

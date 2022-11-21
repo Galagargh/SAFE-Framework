@@ -15,7 +15,7 @@ import Arkenstone from './pages/case-studies/arkenstone.vue';
 import Pigotts from './pages/case-studies/pigotts.vue';
 import Jewellery from './pages/case-studies/jewellery.vue';
 
-const routerHistory = createWebHistory()
+const routerHistory = createWebHistory();
 
 const router = createRouter({
     scrollBehavior(to) {
@@ -33,58 +33,67 @@ const router = createRouter({
     routes:[
         {
             path: '/',
+            name: 'Home',
             component: Home
         },
         {
             path: '/pricing',
+            name: 'Pricing',
             component: Pricing
         },
         {
             path: '/about',
+            name: 'About',
             component: About
         },
         {
             path: '/blog',
+            name: 'Blog',
             component: Blog
         },
         {
             path: '/blog-post',
+            name: 'BlogPost',
             component: BlogPost
         },
         {
             path: '/work',
+            name: 'Work',
             component: Work
         },
         {
-            path: '/wall-of-love-single',
-            component: WallOfLoveSingle
-        },
-        {
             path: '/case-study/arkenstone',
+            name: 'Arkenstone',
             component: Arkenstone
         },
         {
             path: '/case-study/pigotts',
+            name: 'Pigotts',
             component: Pigotts
         },
         {
             path: '/case-study/jewellery',
+            name: 'Jewellery',
             component: Jewellery
         },
         {
             path: '/support',
+            name: 'Support',
             component: Support
         },
         {
             path: '/signin',
+            name: 'SignIn',
             component: SignIn
         },
         {
             path: '/reset-password',
+            name: 'ResetPassword',
             component: ResetPassword
         },
         {
             path: '/request-demo',
+            name: 'RequestDemo',
             component: RequestDemo
         },
         {

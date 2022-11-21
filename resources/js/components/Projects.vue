@@ -29,7 +29,7 @@
               </div>
               <div class="flex items-center mt-4">
                 <router-link to="#0">
-                  <img class="rounded-full shrink-0 mr-3" src="../../images/customer-avatar-01.jpg" width="32" height="32" alt="Customer Avatar 01" />
+                  <img class="rounded-full shrink-0 mr-3" src="../../images/mglogo.jpg" width="32" height="32" alt="Customer Avatar 01" />
                 </router-link>
                 <div class="font-medium">
                   <router-link class="text-slate-800 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Matt</router-link>
@@ -68,7 +68,7 @@
               </div>
               <div class="flex items-center mt-4">
                 <router-link to="#0">
-                  <img class="rounded-full shrink-0 mr-3" src="../../images/customer-avatar-02.jpg" width="32" height="32" alt="Customer Avatar 02" />
+                  <img class="rounded-full shrink-0 mr-3" src="../../images/mglogo.jpg" width="32" height="32" alt="Customer Avatar 02" />
                 </router-link>
                 <div class="font-medium">
                   <router-link class="text-slate-800 hover:text-blue-600 transition duration-150 ease-in-out" to="#0">Matt</router-link>

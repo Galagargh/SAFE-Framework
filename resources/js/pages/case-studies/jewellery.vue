@@ -13,8 +13,8 @@
                     <img class="opacity-10 w-full h-full object-cover" src="../../../images/alex-hero.jpg" width="1440" height="497" alt="Hero" />
                 </template>
             </WofSingleHero>
-            <Stats section-colour="text-orange-500" point-one="More Referrals" value-one="48%"
-                   point-two="More Daily Traffic" value-two="70%" point-three="Click-Through Rate" value-three="128%"/>
+            <Stats section-colour="text-orange-500" point-one="More Shared Posts" value-one="128%"
+                   point-two="Gallery Attendance" value-two="100%" point-three="Sales After Rebrand" value-three="172%"/>
             <WofSingleContent section-colour="text-orange-500"
                               section-one-head=""
                               section-one-content="A Jeweller based in Milton Keynes, Alexandra Louise was looking for a revitalised Brand Design for her upcoming exhibition in Milton Keynes Gallery. As part of a branding package I provided her with a logo for any future exhibitions and her business. Business card designs to hand out at her exhibition and for new clients. A poster for use around the exhibition, and social media assets to use for online marketing which were used to promote herself and her brand."

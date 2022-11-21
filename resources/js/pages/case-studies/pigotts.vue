@@ -7,12 +7,12 @@
         <!-- Page content -->
         <main class="grow">
             <!-- Page sections -->
-            <WofSingleHero project-title="Pigotts Investments" project-date="March 3, 2019" project-image="../../images/wof-single.jpg" section-colour="bg-red-500">
+            <WofSingleHero project-title="Pigotts Investments" project-link="https://www.pigottsinvestments.co.uk/" project-date="March 3, 2019" project-image="../../images/wof-single.jpg" section-colour="bg-red-500">
                 <template #img>
                     <img class="opacity-10 w-full h-full object-cover" src="../../../images/PigottsInvestments2.jpg" width="1440" height="497" alt="Hero" />
                 </template>
             </WofSingleHero>
-            <Stats section-colour="text-red-500" point-one="More Referrals" value-one="48%" point-two="More Daily Traffic" value-two="70%" point-three="Click-Through Rate" value-three="128%"/>
+            <Stats section-colour="text-red-500" point-one="More Backlink Visits" value-one="12%" point-two="More Unique Visitors" value-two="30%" point-three="Bounce Rate" value-three="-84%"/>
             <WofSingleContent section-colour="text-red-500"
                               section-one-head=""
                               section-one-content="As long running financial managers, Piggott's investments are an established firm with an already loyal customer base. Being an existing client of Goldmine Media, they reached out as part of their strategy to update their branding by making their website more modern, this was tasked to myself. As well as this, additional features were to be added to the site based on new client specifications and requirements."

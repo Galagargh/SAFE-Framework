@@ -89,6 +89,7 @@
               <li>
                   <router-link to="/work" class="flex font-medium text-slate-800 hover:text-blue-600 py-2">Work</router-link>
               </li>
+                  <!--
                <li>
                   <router-link to="/pricing" class="flex font-medium text-slate-800 hover:text-blue-600 py-2">Pricing</router-link>
                 </li>
@@ -115,6 +116,7 @@
                 <li>
                   <router-link to="/request-demo" class="flex font-medium text-blue-600 py-2 group">Request Demo <span class="tracking-normal text-blue-600 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span></router-link>
                 </li>
+                -->
               </ul>
             </nav>
           </transition>

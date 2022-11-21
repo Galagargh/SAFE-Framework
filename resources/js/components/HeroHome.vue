@@ -55,7 +55,9 @@
 <!--                    <img class="mx-auto md:max-w-none" src="../../images/acentic-cards.png" width="540" height="405" alt="Hero" />-->
 <!--                </div>-->
                 <div class="relative">
-                    <img class="mx-auto md:max-w-none md:min-w-[50%] -translate-x-40 translate-y-36 [clip-path:polygon(0_0,_5760px_0,_5760px_calc(100%_-_352px),_0_100%)]" src="../../images/home-hero.png" width="1040" height="405" alt="Hero" />
+                    <div class="w-full">
+                        <img class="mx-auto translate-y-[4.75em] md:max-w-none md:min-w-[50%] md:-translate-x-40 md:translate-y-[9.6em] lg:translate-y-[8.6em] [clip-path:polygon(0_0,_5760px_0,_5760px_calc(100%_-_352px),_0_100%)]" src="../../images/home-hero.png" width="1040" height="405" alt="Hero" />
+                    </div>
                 </div>
             </div>
         </div>

@@ -42,6 +42,9 @@ module.exports = {
                 wider: '0.02em',
                 widest: '0.4em',
             },
+            backgroundImage: {
+                'hero-image': "url('resources/images/about-intro.jpg')"
+            },
         },
     },
   plugins: [

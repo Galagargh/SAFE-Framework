@@ -58,7 +58,7 @@ const router = createRouter({
         },
         {
             path: '/work',
-            name: 'Work',
+            name: 'work',
             component: Work
         },
         {

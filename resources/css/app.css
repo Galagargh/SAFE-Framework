@@ -21,6 +21,25 @@
     filter: invert(81%) sepia(35%) saturate(6397%) hue-rotate(189deg) brightness(95%) contrast(100%);
 }
 
+.hero-bg-size{
+    background-size: clamp(500px * 0.5, 70%, 1148px);
+}
+
+.hero-bg-position{
+    background-position-x: clamp(35rem * 0.8, 120%, 100rem);
+}
+
+.hero-bg-position-sm{
+    background-position-x: clamp(20rem, 80%, 150rem);
+}
+.hero-bg-position-md{
+    background-position-x: clamp(60rem, 90%, 150rem);
+}
+
+.dynamic-hero-text{
+    font-size: clamp(4.5rem * 0.5, 4.2vw, 4.5rem);
+}
+
 .route-is-active{
     /*color:white;*/
 }

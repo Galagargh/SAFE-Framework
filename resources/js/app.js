@@ -10,5 +10,5 @@ import router from './router.js'
 // App.use(router)
 
 const app = createApp(App)
-app.use(router)
 app.mount('#app')
+app.use(router)

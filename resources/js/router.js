@@ -15,7 +15,7 @@ import Arkenstone from './pages/case-studies/arkenstone.vue';
 import Pigotts from './pages/case-studies/pigotts.vue';
 import Jewellery from './pages/case-studies/jewellery.vue';
 
-const routerHistory = createWebHistory(import.meta.env.BASE_URL);
+const routerHistory = createWebHistory();
 
 const router = createRouter({
     scrollBehavior(to) {

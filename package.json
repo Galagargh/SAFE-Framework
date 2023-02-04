@@ -15,6 +15,7 @@
         "vite": "^3.0.0"
     },
     "dependencies": {
+        "@gtm-support/vue-gtm": "^2.0.0",
         "@vitejs/plugin-vue": "^3.1.2",
         "aos": "^2.3.4",
         "vue": "^3.2.36",
